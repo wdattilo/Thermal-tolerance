@@ -12,7 +12,7 @@ Here you can easily access the compiled data and the R codes used in this projec
 
  **Dr. Wesley Dáttilo**, Red de Ecoetología, Instituto de Ecología A.C., Carretera Antigua a Coatepec 351, El Haya, CP 91073, Xalapa, Veracruz, Mexico. Email: wesley.dattilo@inecol.mx - Website: www.wesleydattilo.org
  
- **Dr. Dulce Rodríguez-Morales**, Instituto de Neuroetología, Universidad Veracruzana, Xalapa, Veracruz, Mexico. Email: dulcrodriguez@uv.mx
+ **Dra. Dulce Rodríguez-Morales**, Instituto de Neuroetología, Universidad Veracruzana, Xalapa, Veracruz, Mexico. Email: dulcrodriguez@uv.mx
 
 
 **Generated information in 2024**:
