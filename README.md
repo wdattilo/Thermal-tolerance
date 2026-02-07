@@ -15,23 +15,37 @@ Here you can easily access the compiled data and the R codes used in this projec
  **Dra. Dulce Rodríguez-Morales**, Instituto de Neuroetología, Universidad Veracruzana, Xalapa, Veracruz, Mexico. Email: dulcrodriguez@uv.mx
 
 
-**Generated information in 2024**:
+**Generated information in the first two stages of the project)**:
 
-Ratoni, B.; Cruz, C.P.; Guevara, R.; González-Tokman, D.; Ayala, R.; Baena, F.; Dáttilo, W. (2024). Thermal tolerance and sociality explain the interactive role of bees in a pollination network. Oikos  (in press).
+Baena-Díaz, F. & Dáttilo, W. (2026). Plant traits driving visits by the honeybee Apis mellifera across native and introduced ranges: a global analysis. Ecological Entomology 51: 191-201.
 
-Ratoni, B.; Cruz, C.P.; Novais, S.; Rodríguez-Morales, D.; Neves, F.S.; Ayala, R.; Dáttilo, W. (2024). Temporal decay of similarity in bee-plant relationships throughout the day. Oecologia  (in press).
+Baena, F.; Ratoni, B.; Cruz, C.P.; Ayala, R.; Dáttilo, W. (2026). Trait-mediated variation in plant interactive roles within  plant-floral visitor networks. Plants (in press).
+
+Baena-Díaz, F.; Porter, L. Merced, F.R.; Chévez, E.; Dáttilo, W. (2026). Environmental and social drivers of beekeeping in the Gulf of Mexico region. Journal of Apicultural Research (in press).
+
+Ratoni, B.; Guevara, R.; Cruz, C.P.; González-Tokman, D.; Ayala, R.; Dáttilo, W. (2025). Size-dependent variation in thermal tolerance among tropical bee species. Proceedings of the Royal Society B  282: e20251733.
+
+Hernández-Rivera, A.; Chávez-Ríos, R.; Dáttilo, W.; Esquivel‐ Román, A.; Castelán, F.; Montoya, B.; González-Tokman, D. (2025). Stress response of the honey bee exposed to warming, starvation and neonicotinoids. Journal of Insect Physiology 165: e104870.
+
+Faustino, I.A.T.; González-García, F.; Ramos-Robles, M.; Dáttilo, W. (2025). A macroscopic synthesis and future directions on the study of ecological interaction networks in urban areas. Urban Ecosystems 28: e101.
+
+Pires, L.P.; Silva, A.M.; Ribeiro, P.V.A.; Teixeira, C.M.; Dáttilo, W.; Melo, C. (2025). Rainfall influences plant richness and predicts birds phylogenetic signal in bird-fruit interactions across the globe. Acta Oecologica 127: e104074.
+
+Ratoni, B.; Cruz, C.P.; Guevara, R.; González-Tokman, D.; Ayala, R.; Baena, F.; Dáttilo, W. (2024). Thermal tolerance and sociality explain the interactive role of bees in a pollination network. Oikos 2025(3): e10639.
+
+Ratoni, B.; Cruz, C.P.; Novais, S.; Rodríguez-Morales, D.; Neves, F.S.; Ayala, R.; Dáttilo, W. (2024). Temporal decay of similarity in bee-plant relationships throughout the day. Oecologia 207: id2.
 
 Hernández-Rivera, A.; Dáttilo, W.; Montoya, B.; Villegas-Patraca, R.; González-Tokman, D. (2024). Effects of urbanization on orchid bee diversity and orchid pollination: From Neotropical cloud forests to urban cores. Science of the Total Environment 954: e176553.
 
 Cruz, C.P.; Luna, P.; Villalobos, F.; Guevara, R.;Hinojoza-Díaz, I.; Dáttilo, W. (2024). The central importance of the honeybee (Apis mellifera L.) within plant-bee interaction networks decreases along a Neotropical elevational gradient. Ecological Complexity 60: e101105.
 
-Oliveira, J.B.B.S.; Oliveira, H.F.M.; Dáttilo, W.; Paolucci, L.N. (2024). Anthropogenic impacts on plant-pollinator networks of tropical forests: implications for pollinators coextinction. Biodiversity and Conservation (in press).
+Oliveira, J.B.B.S.; Oliveira, H.F.M.; Dáttilo, W.; Paolucci, L.N. (2024). Anthropogenic impacts on plant-pollinator networks of tropical forests: implications for pollinators coextinction. Biodiversity and Conservation 34: 335-354.
 
-Wakil, W.; Kavallieratos, N.G.;  Eleftheriadou, N.; Ghazanfar, M.U.; Harvey, J.; El-Shafie, H.A.F.; Blankson, A.; Gurr, G.M.; Dáttilo, W.; González-Tokman, D.; Hernández, A. (2024). Climate change, insect pests and consequences for sustainable agriculture and food security. Entomologia Generalis (in press).
+Wakil, W.; Kavallieratos, N.G.;  Eleftheriadou, N.; Ghazanfar, M.U.; Harvey, J.; El-Shafie, H.A.F.; Blankson, A.; Gurr, G.M.; Dáttilo, W.; González-Tokman, D.; Hernández, A. (2024). Climate change, insect pests and consequences for sustainable agriculture and food security. Entomologia Generalis 45: 37-51.
 
 Luna, P.; García-Colón, A.; Hinojosa-Díaz, I.; Dáttilo, W. (2024). Temperature and precipitation explain bee diversity on flowers along an elevation gradient in the Mexican Transition Zone. Sociobiology 71(4): e10455.
 
-Gutiérrez–Rodríguez, B.E.; Dáttilo, W.; Villalobos, F.; Sosa, V. (2024). Areas of endemism of the orchids of Megamexico: hotspots of biotic interactions with pollinators. Journal of Systematics and Evolution (in press).
+Gutiérrez–Rodríguez, B.E.; Dáttilo, W.; Villalobos, F.; Sosa, V. (2024). Areas of endemism of the orchids of Megamexico: hotspots of biotic interactions with pollinators. Journal of Systematics and Evolution 63: 268-281.
 
 "La escalada de las abejas hacia las montañas frente al cambio climático" 
 
