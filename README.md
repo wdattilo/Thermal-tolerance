@@ -37,5 +37,10 @@ Gutiérrez–Rodríguez, B.E.; Dáttilo, W.; Villalobos, F.; Sosa, V. (2024). Ar
 
 [https://www.cronica.com.mx/academia/trabajadores-invisibles-campo-peligro.html](https://www.cronica.com.mx/academia/2024/11/21/la-escalada-de-las-abejas-hacia-las-montanas-frente-al-cambio-climatico/)
 
+"Las interacciones biológicas en el auge del cambio climático" 
+
+[[https://www.cronica.com.mx/academia/trabajadores-invisibles-campo-peligro.html](https://www.cronica.com.mx/academia/2024/11/21/la-escalada-de-las-abejas-hacia-las-montanas-frente-al-cambio-climatico/](https://www.cronica.com.mx/academia/2025/06/26/las-interacciones-biologicas-en-el-auge-del-cambio-climatico/#google_vignette)
+
+
 Main fieldwork team during the first year of the project: Brenda Ratoni, Misael Morales Gómez, Dulce Rodríguez Morales, Wesley Dáttilo.
 ![462554586_1228661058201950_6848607371791598122_n](https://github.com/user-attachments/assets/442bdda6-1a94-4acb-b689-b2abd0130a18)
