@@ -44,3 +44,12 @@ Gutiérrez–Rodríguez, B.E.; Dáttilo, W.; Villalobos, F.; Sosa, V. (2024). Ar
 
 Main fieldwork team during the first year of the project: Brenda Ratoni, Misael Morales Gómez, Dulce Rodríguez Morales, Wesley Dáttilo.
 ![462554586_1228661058201950_6848607371791598122_n](https://github.com/user-attachments/assets/442bdda6-1a94-4acb-b689-b2abd0130a18)
+
+![IMG-20250610-WA0005](https://github.com/user-attachments/assets/9ccd75ae-6980-4390-84ae-d48b90b2a474)
+
+![IMG-20250610-WA0002](https://github.com/user-attachments/assets/86a68826-69e8-4a78-9b4a-07dc0b3eef55)
+
+![IMG_4570](https://github.com/user-attachments/assets/aaee28e2-80cf-48c6-88a6-be1b9903f0ce)
+
+![IMG_4581](https://github.com/user-attachments/assets/e7cc9ad7-d939-4569-ae57-95a3c12bfebc)
+
